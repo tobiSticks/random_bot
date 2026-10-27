@@ -1,0 +1,209 @@
+2026-10-24T15:06:12,START,"demo account 114509222, EURUSD M5, dry_run=True, risk 0.5%"
+2026-10-24T15:06:12,ERROR,"TypeError(""run_long() got an unexpected keyword argument 'return_state'"")"
+2026-10-24T15:08:43,STOP,stopped by you; any open orders and trades stay on the account
+2026-10-24T15:11:48,START,"demo account 114509222, EURUSD M5, dry_run=True, risk 0.5%"
+2026-10-24T15:11:48,WOULD PLACE,"SELL LIMIT 1.0 lots at 1.12189, SL 1.12221, TP 1.11846"
+2026-10-24T15:24:56,START,"demo account 114509222, EURUSD M5, dry_run=True, risk 0.5%"
+2026-10-24T15:24:56,WOULD PLACE,"SELL LIMIT 1.0 lots at 1.12189, SL 1.12221, TP 1.11846"
+2026-10-25T07:10:49,START,"demo account 114509222, 29 symbols, H1, hours 17-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-25T07:10:49,WAIT,EURUSD: market closed or prices are stale; no orders
+2026-10-25T07:10:49,WAIT,GBPUSD: market closed or prices are stale; no orders
+2026-10-25T07:10:52,WAIT,AUDUSD: market closed or prices are stale; no orders
+2026-10-25T07:10:54,WAIT,NZDUSD: market closed or prices are stale; no orders
+2026-10-25T07:10:54,WAIT,USDJPY: market closed or prices are stale; no orders
+2026-10-25T07:10:56,WAIT,USDCAD: market closed or prices are stale; no orders
+2026-10-25T07:10:56,WAIT,USDCHF: market closed or prices are stale; no orders
+2026-10-25T07:11:00,WAIT,EURGBP: market closed or prices are stale; no orders
+2026-10-25T07:11:03,WAIT,EURJPY: market closed or prices are stale; no orders
+2026-10-25T07:11:06,WAIT,EURCHF: market closed or prices are stale; no orders
+2026-10-25T07:11:09,WAIT,EURAUD: market closed or prices are stale; no orders
+2026-10-25T07:11:11,WAIT,EURCAD: market closed or prices are stale; no orders
+2026-10-25T07:11:15,WAIT,EURNZD: market closed or prices are stale; no orders
+2026-10-25T07:11:18,WAIT,GBPJPY: market closed or prices are stale; no orders
+2026-10-25T07:11:21,WAIT,GBPCHF: market closed or prices are stale; no orders
+2026-10-25T07:11:25,WAIT,GBPAUD: market closed or prices are stale; no orders
+2026-10-25T07:11:28,WAIT,GBPCAD: market closed or prices are stale; no orders
+2026-10-25T07:11:31,WAIT,GBPNZD: market closed or prices are stale; no orders
+2026-10-25T07:11:34,WAIT,AUDJPY: market closed or prices are stale; no orders
+2026-10-25T07:11:40,WAIT,AUDCAD: market closed or prices are stale; no orders
+2026-10-25T07:11:42,WAIT,AUDCHF: market closed or prices are stale; no orders
+2026-10-25T07:11:44,WAIT,AUDNZD: market closed or prices are stale; no orders
+2026-10-25T07:11:46,WAIT,NZDJPY: market closed or prices are stale; no orders
+2026-10-25T07:11:48,WAIT,NZDCAD: market closed or prices are stale; no orders
+2026-10-25T07:11:50,WAIT,NZDCHF: market closed or prices are stale; no orders
+2026-10-25T07:11:52,WAIT,CADJPY: market closed or prices are stale; no orders
+2026-10-25T07:11:54,WAIT,CADCHF: market closed or prices are stale; no orders
+2026-10-25T07:11:57,WAIT,CHFJPY: market closed or prices are stale; no orders
+2026-10-25T07:12:00,WAIT,XAUUSD: market closed or prices are stale; no orders
+2026-10-25T07:12:00,CHECKED,29 symbols after the latest candle
+2026-10-25T07:59:36,START,"demo account 114509222, 29 symbols, H1, hours 17-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-25T07:59:36,WAIT,EURUSD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,GBPUSD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,AUDUSD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,NZDUSD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,USDJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,USDCAD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,USDCHF: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,EURGBP: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,EURJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,EURCHF: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,EURAUD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,EURCAD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,EURNZD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,GBPJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,GBPCHF: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,GBPAUD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,GBPCAD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,GBPNZD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,AUDJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,AUDCAD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,AUDCHF: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,AUDNZD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,NZDJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,NZDCAD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,NZDCHF: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,CADJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,CADCHF: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,CHFJPY: market closed or prices are stale; no orders
+2026-10-25T07:59:36,WAIT,XAUUSD: market closed or prices are stale; no orders
+2026-10-25T07:59:36,CHECKED,29 symbols after the latest candle
+2026-10-26T05:02:59,CHECKED,29 symbols after the latest candle
+2026-10-26T05:02:59,CHECKED,29 symbols after the latest candle
+2026-10-26T05:08:13,START,"demo account 114509222, 29 symbols, H1, hours 17-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-26T05:08:13,CHECKED,29 symbols after the latest candle
+2026-10-26T05:57:33,START,"demo account 114509222, 29 symbols, H1, hours 17-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-26T05:57:33,CHECKED,29 symbols after the latest candle
+2026-10-26T06:00:14,START,"demo account 114509222, 29 symbols, H1, hours 17-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-26T06:00:14,CHECKED,29 symbols after the latest candle
+2026-10-26T06:02:20,START,"demo account 114509222, 29 symbols, H1, hours 17-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-26T06:02:20,CHECKED,29 symbols after the latest candle
+2026-10-26T06:06:18,STOP,stopped by you; any open orders and trades stay on the account
+2026-10-26T06:10:11,START,"demo account 114509222, 29 symbols, H1, hours 0-24 Europe/London, dry_run=True, risk 0.5%"
+2026-10-26T06:10:11,WOULD PLACE,"AUDUSD BUY LIMIT 1.0 lots at 0.69619, SL 0.69440, TP 0.70398, spread 0.00002 (1% of the stop)"
+2026-10-26T06:10:11,WOULD PLACE,"USDCAD SELL LIMIT 1.0 lots at 1.41128, SL 1.41274, TP 1.39684, spread 0.00001 (1% of the stop)"
+2026-10-26T06:10:11,WOULD PLACE,"USDCHF SELL LIMIT 0.71 lots at 0.83171, SL 0.83755, TP 0.81916, spread 0.00001 (0% of the stop)"
+2026-10-26T06:10:11,WOULD PLACE,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.002 (1% of the stop)"
+2026-10-26T06:10:12,WOULD PLACE,"EURCAD SELL LIMIT 1.0 lots at 1.59017, SL 1.59332, TP 1.56462, spread 0.00003 (1% of the stop)"
+2026-10-26T06:10:12,WOULD PLACE,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00009 (2% of the stop)"
+2026-10-26T06:10:12,WOULD PLACE,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58087, spread 0.00004 (2% of the stop)"
+2026-10-26T06:10:12,WOULD PLACE,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.004 (1% of the stop)"
+2026-10-26T06:10:12,WOULD PLACE,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.58884, spread 0.00008 (7% of the stop)"
+2026-10-26T06:10:13,WOULD PLACE,"XAUUSD SELL LIMIT 0.2 lots at 4155.32, SL 4180.29, TP 3975.49, spread 0.27 (1% of the stop)"
+2026-10-26T06:10:13,CHECKED,29 symbols after the latest candle
+2026-10-26T07:00:15,WOULD PLACE,"AUDUSD BUY LIMIT 1.0 lots at 0.69619, SL 0.69440, TP 0.70398, spread 0.00002 (1% of the stop)"
+2026-10-26T07:00:15,WOULD PLACE,"USDCAD SELL LIMIT 1.0 lots at 1.41128, SL 1.41274, TP 1.39684, spread 0.00000 (0% of the stop)"
+2026-10-26T07:00:15,WOULD PLACE,"USDCHF SELL LIMIT 0.71 lots at 0.83171, SL 0.83755, TP 0.81916, spread 0.00001 (0% of the stop)"
+2026-10-26T07:00:15,WOULD PLACE,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.002 (1% of the stop)"
+2026-10-26T07:00:15,WOULD PLACE,"EURCAD SELL LIMIT 1.0 lots at 1.59017, SL 1.59332, TP 1.56462, spread 0.00003 (1% of the stop)"
+2026-10-26T07:00:15,WOULD PLACE,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00009 (2% of the stop)"
+2026-10-26T07:00:16,WOULD PLACE,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58087, spread 0.00003 (1% of the stop)"
+2026-10-26T07:00:16,WOULD PLACE,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.004 (1% of the stop)"
+2026-10-26T07:00:16,WOULD PLACE,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.58884, spread 0.00008 (7% of the stop)"
+2026-10-26T07:00:16,WOULD PLACE,"XAUUSD SELL LIMIT 0.2 lots at 4155.32, SL 4180.29, TP 3975.49, spread 0.49 (2% of the stop)"
+2026-10-26T07:00:16,CHECKED,29 symbols after the latest candle
+2026-10-26T19:08:58,CHECKED,1 symbols after the latest candle
+2026-10-26T19:09:13,WOULD PLACE,"AUDUSD BUY LIMIT 1.0 lots at 0.69619, SL 0.69440, TP 0.70398, spread 0.00000 (0% of the stop)"
+2026-10-26T19:09:13,WOULD PLACE,"USDCAD SELL LIMIT 1.0 lots at 1.41128, SL 1.41274, TP 1.39684, spread 0.00001 (1% of the stop)"
+2026-10-26T19:09:13,WOULD PLACE,"USDCHF SELL LIMIT 0.71 lots at 0.83171, SL 0.83755, TP 0.81916, spread 0.00002 (0% of the stop)"
+2026-10-26T19:09:13,WOULD PLACE,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.003 (1% of the stop)"
+2026-10-26T19:09:13,WOULD PLACE,"EURCAD SELL LIMIT 1.0 lots at 1.59017, SL 1.59332, TP 1.56462, spread 0.00003 (1% of the stop)"
+2026-10-26T19:09:14,WOULD PLACE,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00006 (2% of the stop)"
+2026-10-26T19:09:14,WOULD PLACE,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58153, spread 0.00003 (1% of the stop)"
+2026-10-26T19:09:14,WOULD PLACE,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.005 (1% of the stop)"
+2026-10-26T19:09:14,WOULD PLACE,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.59019, spread 0.00008 (7% of the stop)"
+2026-10-26T19:09:14,WOULD PLACE,"XAUUSD SELL LIMIT 0.2 lots at 4155.32, SL 4180.29, TP 3975.49, spread 0.20 (1% of the stop)"
+2026-10-26T19:09:14,CHECKED,28 symbols after the latest candle
+2026-10-26T20:00:02,WOULD PLACE,"AUDUSD BUY LIMIT 1.0 lots at 0.69619, SL 0.69440, TP 0.70398, spread 0.00000 (0% of the stop)"
+2026-10-26T20:00:02,WOULD PLACE,"USDCAD SELL LIMIT 1.0 lots at 1.41128, SL 1.41274, TP 1.39684, spread 0.00001 (1% of the stop)"
+2026-10-26T20:00:02,WOULD PLACE,"USDCHF SELL LIMIT 0.71 lots at 0.83171, SL 0.83755, TP 0.81916, spread 0.00001 (0% of the stop)"
+2026-10-26T20:00:02,WOULD PLACE,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.000 (0% of the stop)"
+2026-10-26T20:00:02,WOULD PLACE,"EURCAD SELL LIMIT 1.0 lots at 1.59017, SL 1.59332, TP 1.56462, spread 0.00003 (1% of the stop)"
+2026-10-26T20:00:02,WOULD PLACE,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00008 (2% of the stop)"
+2026-10-26T20:00:03,WOULD PLACE,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58153, spread 0.00003 (1% of the stop)"
+2026-10-26T20:00:03,WOULD PLACE,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.005 (1% of the stop)"
+2026-10-26T20:00:03,WOULD PLACE,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.59019, spread 0.00007 (6% of the stop)"
+2026-10-26T20:00:03,WOULD PLACE,"XAUUSD SELL LIMIT 0.2 lots at 4155.32, SL 4180.29, TP 3975.49, spread 0.25 (1% of the stop)"
+2026-10-26T20:00:03,CHECKED,29 symbols after the latest candle
+2026-10-26T20:23:51,STOP,stopped by you; any open orders and trades stay on the account
+2026-10-26T20:28:47,START,"demo account 114509222, 29 symbols, H1, hours 0-24 Europe/London, dry_run=False, risk 0.5%"
+2026-10-26T20:28:47,PLACE FAILED,"AUDUSD BUY LIMIT 1.0 lots at 0.69619, SL 0.69440, TP 0.70398, spread 0.00002 (1% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:47,PLACE FAILED,"USDCAD SELL LIMIT 1.0 lots at 1.41128, SL 1.41274, TP 1.39684, spread 0.00001 (1% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:47,PLACE FAILED,"USDCHF SELL LIMIT 0.71 lots at 0.83171, SL 0.83755, TP 0.81916, spread 0.00002 (0% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:47,PLACE FAILED,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.003 (1% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:47,PLACE FAILED,"EURCAD SELL LIMIT 1.0 lots at 1.59017, SL 1.59332, TP 1.56462, spread 0.00003 (1% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:48,PLACE FAILED,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00008 (2% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:48,PLACE FAILED,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58153, spread 0.00004 (2% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:48,PLACE FAILED,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.005 (1% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:49,PLACE FAILED,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.59019, spread 0.00009 (7% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:49,PLACE FAILED,"XAUUSD SELL LIMIT 0.2 lots at 4155.32, SL 4180.29, TP 3975.49, spread 0.31 (1% of the stop) | 10027 AutoTrading disabled by client"
+2026-10-26T20:28:49,CHECKED,29 symbols after the latest candle
+2026-10-26T20:29:58,STOP,stopped by you; any open orders and trades stay on the account
+2026-10-26T20:30:14,START,"demo account 114509222, 29 symbols, H1, hours 0-24 Europe/London, dry_run=False, risk 0.5%"
+2026-10-26T20:30:14,PLACED,"AUDUSD BUY LIMIT 1.0 lots at 0.69619, SL 0.69440, TP 0.70398, spread 0.00001 (1% of the stop)"
+2026-10-26T20:30:15,PLACED,"USDCAD SELL LIMIT 1.0 lots at 1.41128, SL 1.41274, TP 1.39684, spread 0.00000 (0% of the stop)"
+2026-10-26T20:30:15,PLACED,"USDCHF SELL LIMIT 0.71 lots at 0.83171, SL 0.83755, TP 0.81916, spread 0.00001 (0% of the stop)"
+2026-10-26T20:30:15,PLACED,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.003 (1% of the stop)"
+2026-10-26T20:30:16,PLACED,"EURCAD SELL LIMIT 1.0 lots at 1.59017, SL 1.59332, TP 1.56462, spread 0.00004 (1% of the stop)"
+2026-10-26T20:30:17,PLACED,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00009 (2% of the stop)"
+2026-10-26T20:30:17,PLACED,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58153, spread 0.00004 (2% of the stop)"
+2026-10-26T20:30:17,PLACED,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.005 (1% of the stop)"
+2026-10-26T20:30:18,PLACED,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.59019, spread 0.00009 (7% of the stop)"
+2026-10-26T20:30:18,PLACED,"XAUUSD SELL LIMIT 0.2 lots at 4155.32, SL 4180.29, TP 3975.49, spread 0.34 (1% of the stop)"
+2026-10-26T20:30:18,CHECKED,29 symbols after the latest candle
+2026-10-26T21:00:06,CANCEL,CADCHF order 11113699706: setup changed or expired
+2026-10-26T21:00:06,PLACED,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.59032, spread 0.00010 (8% of the stop)"
+2026-10-26T21:00:06,CHECKED,29 symbols after the latest candle
+2026-10-26T22:00:09,SKIP,EURJPY sell at 177.366: spread is 89% of the stop (limit 50%)
+2026-10-26T22:00:09,CANCEL,EURJPY order 11113699355: setup changed or expired
+2026-10-26T22:00:10,SKIP,GBPNZD sell at 2.36011: spread is 91% of the stop (limit 50%)
+2026-10-26T22:00:10,CANCEL,GBPNZD order 11113699554: setup changed or expired
+2026-10-26T22:00:10,SKIP,AUDCHF buy at 0.57767: spread is 54% of the stop (limit 50%)
+2026-10-26T22:00:10,CANCEL,AUDCHF order 11113699606: setup changed or expired
+2026-10-26T22:00:11,SKIP,NZDJPY sell at 89.740: spread is 69% of the stop (limit 50%)
+2026-10-26T22:00:11,CANCEL,NZDJPY order 11113699637: setup changed or expired
+2026-10-26T22:00:11,SKIP,CADCHF buy at 0.58693: spread is 83% of the stop (limit 50%)
+2026-10-26T22:00:11,SKIP,CADCHF buy at 0.58441: spread is 90% of the stop (limit 50%)
+2026-10-26T22:00:11,CANCEL,CADCHF order 11113989202: setup changed or expired
+2026-10-26T22:00:11,CHECKED,28 symbols after the latest candle
+2026-10-26T23:00:14,SKIP,USDCAD sell at 1.41128: spread is 50% of the stop (limit 50%)
+2026-10-26T23:00:32,CANCEL FAILED,USDCAD order 11113699114: setup changed or expired
+2026-10-26T23:00:32,PLACED,"USDCAD SELL LIMIT 1.0 lots at 1.41732, SL 1.41974, TP 1.39684, spread 0.00073 (30% of the stop)"
+2026-10-26T23:00:32,PLACED,"EURJPY SELL LIMIT 1.0 lots at 177.366, SL 177.645, TP 175.098, spread 0.022 (8% of the stop)"
+2026-10-26T23:00:33,PLACED,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34120, spread 0.00160 (40% of the stop)"
+2026-10-26T23:00:34,PLACED,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58153, spread 0.00068 (31% of the stop)"
+2026-10-26T23:00:34,PLACED,"NZDJPY SELL LIMIT 1.0 lots at 89.740, SL 90.171, TP 88.699, spread 0.056 (13% of the stop)"
+2026-10-26T23:00:34,PLACED,"CADCHF BUY LIMIT 1.0 lots at 0.58693, SL 0.58571, TP 0.59081, spread 0.00024 (20% of the stop)"
+2026-10-26T23:00:35,CHECKED,29 symbols after the latest candle
+2026-10-27T00:00:09,CANCEL,USDCAD order 11114410906: setup changed or expired
+2026-10-27T00:00:10,CHECKED,29 symbols after the latest candle
+2026-10-27T01:00:14,CHECKED,29 symbols after the latest candle
+2026-10-27T01:41:00,TRADE OPENED,"NZDJPY SELL 1.0 lots at 89.74, SL 90.171, TP 88.699"
+2026-10-27T02:00:02,HOLD,"NZDJPY: trade open, spread now 0.005"
+2026-10-27T02:00:02,CHECKED,29 symbols after the latest candle
+2026-10-27T03:00:05,PLACED,"EURCHF BUY LIMIT 1.0 lots at 0.92258, SL 0.92009, TP 0.92507, spread 0.00002 (1% of the stop)"
+2026-10-27T03:00:06,CANCEL,GBPNZD order 11114411933: setup changed or expired
+2026-10-27T03:00:06,PLACED,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34091, spread 0.00011 (3% of the stop)"
+2026-10-27T03:00:06,CANCEL,AUDCHF order 11114412395: setup changed or expired
+2026-10-27T03:00:06,PLACED,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58181, spread 0.00004 (2% of the stop)"
+2026-10-27T03:00:06,HOLD,"NZDJPY: trade open, spread now 0.005"
+2026-10-27T03:00:07,PLACED,"NZDCAD BUY LIMIT 1.0 lots at 0.79745, SL 0.79610, TP 0.79881, spread 0.00004 (3% of the stop)"
+2026-10-27T03:00:07,CHECKED,29 symbols after the latest candle
+2026-10-27T04:00:10,CANCEL,GBPNZD order 11115999926: setup changed or expired
+2026-10-27T04:00:11,PLACED,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.34042, spread 0.00011 (3% of the stop)"
+2026-10-27T04:00:11,HOLD,"NZDJPY: trade open, spread now 0.005"
+2026-10-27T04:00:11,CANCEL,NZDCAD order 11116000024: setup changed or expired
+2026-10-27T04:00:11,PLACED,"NZDCAD BUY LIMIT 1.0 lots at 0.79745, SL 0.79610, TP 0.79891, spread 0.00005 (4% of the stop)"
+2026-10-27T04:00:12,CHECKED,29 symbols after the latest candle
+2026-10-27T05:07:00,PLACED,"NZDUSD BUY LIMIT 1.0 lots at 0.56869, SL 0.56708, TP 0.57046, spread 0.00001 (1% of the stop)"
+2026-10-27T05:07:01,CANCEL,GBPNZD order 11116486870: setup changed or expired
+2026-10-27T05:07:02,PLACED,"GBPNZD SELL LIMIT 1.0 lots at 2.36011, SL 2.36409, TP 2.33916, spread 0.00012 (3% of the stop)"
+2026-10-27T05:07:02,CANCEL,AUDCHF order 11115999994: setup changed or expired
+2026-10-27T05:07:02,PLACED,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58191, spread 0.00004 (2% of the stop)"
+2026-10-27T05:07:02,HOLD,"NZDJPY: trade open, spread now 0.005"
+2026-10-27T05:07:03,CANCEL,NZDCAD order 11116487085: setup changed or expired
+2026-10-27T05:07:03,PLACED,"NZDCAD BUY LIMIT 1.0 lots at 0.79745, SL 0.79610, TP 0.79922, spread 0.00004 (3% of the stop)"
+2026-10-27T05:07:03,CHECKED,29 symbols after the latest candle
+2026-10-27T06:00:06,CANCEL,AUDCHF order 11117090377: setup changed or expired
+2026-10-27T06:00:07,PLACED,"AUDCHF BUY LIMIT 1.0 lots at 0.57767, SL 0.57546, TP 0.58198, spread 0.00004 (2% of the stop)"
+2026-10-27T06:00:07,HOLD,"NZDJPY: trade open, spread now 0.005"
+2026-10-27T06:00:07,CHECKED,29 symbols after the latest candle
